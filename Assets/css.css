@@ -1,0 +1,33 @@
+body {
+  background-image: url("http://bgfons.com/uploads/pattern/pattern_texture1165.jpg");
+}
+
+.container {
+  background: green;
+  margin-top: 100px;
+  padding-bottom: 100px;
+}
+
+.triviaGameTitle {
+  padding-top: 100px; 
+  padding-bottom: 100px;
+}
+
+h1, h2 {
+  text-align: center;
+  }
+
+.timeRemainingText {
+  padding-bottom: 50px;
+  color: tan;
+}
+
+.quiz {
+  color: aliceblue;
+}
+
+.timeRemainingText {
+}
+
+#question {
+}
